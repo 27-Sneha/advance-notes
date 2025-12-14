@@ -1,0 +1,31 @@
+.editor-container {
+  padding: 20px;
+}
+
+.editor-title {
+  margin-bottom: 15px !important;
+}
+
+.editor-box {
+  padding: 15px;
+  margin-bottom: 20px;
+}
+
+.save-btn {
+  margin-top: 10px;
+}
+
+.ai-section {
+  margin-top: 20px;
+  justify-content: space-between;
+}
+
+.summary-box {
+  padding: 14px;
+  background-color: rgb(229 244 246) !important;
+}
+
+.divider-section {
+  justify-content: center;
+  display: flex;
+}

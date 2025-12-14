@@ -1,0 +1,14 @@
+.header-container {
+  display: flex !important;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  border-bottom: 2px solid rgb(47, 93, 173);
+}
+
+.search-container {
+  display: flex !important;
+  justify-content: flex-end;
+  align-items: center;
+  column-gap: 14px !important;
+}
